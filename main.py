@@ -14,10 +14,6 @@ movies_df = pd.read_csv(r'csv\dmovies_df_limpio.csv')
 
 movies_df['release_date'] = pd.to_datetime(movies_df['release_date'], format='%Y-%m-%d', errors='coerce')
 
-# with open('similarity_matrix.pickle', 'rb') as f:
-#     cosine_sim = pickle.load(f)
-
-
 
 #Consultas
 
