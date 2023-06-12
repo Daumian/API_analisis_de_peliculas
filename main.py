@@ -9,8 +9,8 @@ app = FastAPI()
 
 
 # Importamos dataset
-credits_df = pd.read_csv(r'dcredits_limpio.csv')
-movies_df = pd.read_csv(r'dmovies_df_limpio.csv')
+credits_df = pd.read_csv(r'csv/dcredits_limpio.csv')
+movies_df = pd.read_csv(r'csv/dmovies_df_limpio.csv')
 
 movies_df['release_date'] = pd.to_datetime(movies_df['release_date'], format='%Y-%m-%d', errors='coerce')
 
