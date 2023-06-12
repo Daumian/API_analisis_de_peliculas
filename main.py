@@ -2,7 +2,6 @@ from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
 import pandas as pd
 import numpy as np
-import pickle
 
 app = FastAPI()
 # http://127.0.0.1:8000 
