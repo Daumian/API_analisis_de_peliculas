@@ -6,7 +6,10 @@ el objetivo final es hacer una api a la que se le pueda preguntar y entregue res
 
 #Procesos del proyecto
 ##EDA y #ETL
-###Este proceso se fue limpiando la base de datos, puedes consultarlo en el siguiente enlace [Daumián pon en enlace de deepnote no te olvides] esta en deepnote para que puedas facilmente ejecutarlo y analizarlo.
+###Este proceso se fue limpiando la base de datos, puedes consultarlo en el siguiente [enlace](https://deepnote.com/workspace/daumian-ruiz-ceed-0677a995-df7e-45a8-9540-809a03138f79/project/HenryLabs-sup-11-00606b1a-4413-426c-8abb-9db2b6644c1b/notebook/EDA%20y%20ETL%20movies_csv-57b76f0137b14d4f8755c59acc95dc0d)
+ 
+
+esta en deepnote para que puedas facilmente ejecutarlo y analizarlo.
 se realizaron las siguientes acciones:
 
 1. Algunos campos, como belongs_to_collection, production_companies y otros (ver diccionario de datos), estaban anidados. han sido desanidados para poder y unirlos al dataset nuevamente hacer alguna de las consultas de la API. O bien, buscar la 
