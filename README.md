@@ -5,8 +5,8 @@ Hay una base de datos en bruto, esta base contiene información sobre peliculas,
 el objetivo final es hacer una api a la que se le pueda preguntar y entregue respuestas
 
 #Procesos del proyecto
-##EDA y #ETL
-###Este proceso se fue limpiando la base de datos, puedes consultarlo en el siguiente [enlace](https://deepnote.com/workspace/daumian-ruiz-ceed-0677a995-df7e-45a8-9540-809a03138f79/project/HenryLabs-sup-11-00606b1a-4413-426c-8abb-9db2b6644c1b/notebook/EDA%20y%20ETL%20movies_csv-57b76f0137b14d4f8755c59acc95dc0d)
+## EDA y ETL
+### Este proceso se fue limpiando la base de datos, puedes consultarlo en el siguiente [enlace](https://deepnote.com/workspace/daumian-ruiz-ceed-0677a995-df7e-45a8-9540-809a03138f79/project/HenryLabs-sup-11-00606b1a-4413-426c-8abb-9db2b6644c1b/notebook/EDA%20y%20ETL%20movies_csv-57b76f0137b14d4f8755c59acc95dc0d)
  
 
 esta en deepnote para que puedas facilmente ejecutarlo y analizarlo.
@@ -23,9 +23,6 @@ se realizaron las siguientes acciones:
 5. Se creó la columna con el retorno de inversión, llamada return, con los campos revenue y budget, dividiendo estas dos últimas revenue / budget. Cuando no había datos disponibles para calcularlo, se tomó el valor 
 
 6. Se eliminaron las columnas que no serán utilizadas: video, imdb_id, adult, original_title, poster_path y homepage.
-
-
-
 
 
 ##API
