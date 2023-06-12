@@ -215,18 +215,20 @@ async def home():
     "BIENVENIDO<br>"
     "estos son los path que existen:<br>",
     "Cantidad de peliculas estrenadas este mes (Enero,Frebrero...)",
-    "@app.get('/cantidad_filmaciones_mes/{mes}')<br><br>",
+    "/cantidad_filmaciones_mes/{mes}<br><br>",
     "Cantidad de peliculas extrenadas ese dia",
-    "@app.get('/cantidad_filmaciones_dia/{dia}')<br><br>",
+    "/cantidad_filmaciones_dia/{dia}<br><br>",
     "Año de estreno y escore de una pelicula",
-    "@app.get('/score_titulo/{titulo}')<br><br>",
+    "/score_titulo/{titulo}<br><br>",
     "Votos y score de una pelicula",
-    "@app.get('/votos_titulo/{titulo}')<br><br>",
+    "/votos_titulo/{titulo}<br><br>",
     "Recaudacion de un actor y peliculas",
-    "@app.get('/get_actor/{actor}')<br><br>",
+    "/get_actor/{actor}<br><br>",
     "peliculas de un director",
-    "@app.get('/get_director/{director}')",
+    "/get_director/{director}<br><br>",
     "peliculas de un actor",
-    "@app.get('/search_actor/{actor}')"
+    "/search_actor/{actor}<br><br>"
+    "sistema de recomendaciones",
+    "/recomendacion/{titulo}<br><br>"
    ]
    return "<br>".join(lineas) 
