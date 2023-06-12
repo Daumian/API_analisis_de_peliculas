@@ -10,7 +10,7 @@ A partir de una base de datos en bruto, esta base contiene información sobre pe
 el objetivo final es hacer una api a la que se le pueda preguntar y entregue respuestas
 
 
-#Procesos del proyecto
+# Procesos del proyecto
 ## EDA y ETL
 ### Este proceso se fue limpiando la base de datos, puedes consultarlo en el siguiente [enlace](https://deepnote.com/workspace/daumian-ruiz-ceed-0677a995-df7e-45a8-9540-809a03138f79/project/HenryLabs-sup-11-00606b1a-4413-426c-8abb-9db2b6644c1b/notebook/EDA%20y%20ETL%20movies_csv-57b76f0137b14d4f8755c59acc95dc0d)
  
