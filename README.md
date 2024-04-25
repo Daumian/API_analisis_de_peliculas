@@ -6,9 +6,7 @@
 
 
 ## Resumen:
-A partir de una base de datos en bruto, esta base contiene información sobre peliculas, (Titulo, Actores, Generos, Presupuesto, Recaudación, Idioma y Director), esta base debe ser limpiada para poder trabajar con ella.
-el objetivo final es hacer una api a la que se le pueda preguntar y entregue respuestas
-
+A partir de una base de datos en bruto,que contiene información sobre peliculas, (Titulo, Actores, Generos, Presupuesto, Recaudación, Idioma y Director), tras limpiarla, normalizarla y prepararla, se genero una API donde se pudiera consultar información sobre los distintos datos, plataformas, actores, promedios, etc. Incluso se genero un sistema que te recomienda peliculas en base a tus gustos.
 
 # Procesos del proyecto
 ## EDA y ETL
