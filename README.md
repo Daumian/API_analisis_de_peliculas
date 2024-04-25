@@ -2,7 +2,7 @@
 
 ## Enlaces utiles:
 ### api  [Render Api](https://api-henry-s9k1.onrender.com)
-### eda y etl [deepnote EDA](https://deepnote.com/workspace/daumian-ruiz-ceed-0677a995-df7e-45a8-9540-809a03138f79/project/HenryLabs-sup-11-00606b1a-4413-426c-8abb-9db2b6644c1b/notebook/EDA%20y%20ETL%20movies_csv-57b76f0137b14d4f8755c59acc95dc0d)
+### eda y etl [deepnote EDA](https://deepnote.com/workspace/daumian-ruiz-ceed-0677a995-df7e-45a8-9540-809a03138f79/project/ETL-Dataframes-00606b1a-4413-426c-8abb-9db2b6644c1b/notebook/57b76f0137b14d4f8755c59acc95dc0d)
 
 
 ## Resumen:
